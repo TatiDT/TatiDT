@@ -1,16 +1,13 @@
-## Hi there 👋
+ ¡Hola! Soy Tatiana Isabel Abarca Urra, estudiante de ingeniería en informática con una fuerte atracción por el razonamiento lógico y el orden estructural. Para mí, escribir código no solo es resolver problemas, sino también expresar soluciones de forma clara, eficiente y mantenible.
 
-<!--
-**TatiDT/TatiDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me interesa especialmente:
 
-Here are some ideas to get you started:
+La documentación técnica como herramienta para compartir conocimiento y facilitar el trabajo en equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+El pensamiento lógico aplicado a algoritmos, estructuras de datos y resolución de problemas complejos.
+
+El desarrollo de software bien estructurado, legible y sostenible en el tiempo.
+
+ Actualmente estoy mejorando mis habilidades en python, HTML, SQL y C#, y siempre busco buenas prácticas que combinen lógica rigurosa con documentación útil.
+
+ Creo que un buen código se entiende sin esfuerzo... y una buena documentación lo hace inolvidable.
