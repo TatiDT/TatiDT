@@ -1,7 +1,7 @@
- <!-- Banner de presentación -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=✨+Tatiana+Isabel+Abarca+Urra+✨;🧠+Razonamiento+lógico+%7C+Documentación+técnica;🚀+Estudiante+de+Ingeniería+en+Informática" alt="Typing SVG" />
-</p>
+## ✨ Tatiana Isabel Abarca Urra ✨
+
+**🧠 Razonamiento lógico | Documentación técnica**  
+**🚀 Estudiante de Ingeniería en Informática**
 
 ---
 
@@ -14,20 +14,11 @@ Para mí, escribir código no solo es resolver problemas, sino también **expres
 
 ## 📚 Lo que me interesa especialmente
 
-<table>
-  <tr>
-    <td>📄</td>
-    <td><strong>Documentación técnica</strong> — como herramienta para compartir conocimiento y facilitar el trabajo en equipo.</td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td><strong>Pensamiento lógico</strong> — aplicado a algoritmos, estructuras de datos y resolución de problemas complejos.</td>
-  </tr>
-  <tr>
-    <td>🏗️</td>
-    <td><strong>Desarrollo de software bien estructurado</strong> — legible y sostenible en el tiempo.</td>
-  </tr>
-</table>
+| Icono | Interés |
+|-------|---------|
+| 📄 | **Documentación técnica** — como herramienta para compartir conocimiento y facilitar el trabajo en equipo. |
+| 🧠 | **Pensamiento lógico** — aplicado a algoritmos, estructuras de datos y resolución de problemas complejos. |
+| 🏗️ | **Desarrollo de software bien estructurado** — legible y sostenible en el tiempo. |
 
 ---
 
@@ -42,14 +33,14 @@ Para mí, escribir código no solo es resolver problemas, sino también **expres
 
 ## 🔧 Tecnologías que estoy mejorando actualmente
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <i>y siempre busco buenas prácticas que combinen lógica rigurosa con documentación útil.</i>
 </p>
 
@@ -63,19 +54,11 @@ Para mí, escribir código no solo es resolver problemas, sino también **expres
 
 ## 📫 ¿Dónde encontrarme?
 
-<p align="left">
-  <a href="https://github.com/TatiDT">
-    <img src="https://img.shields.io/badge/GitHub-TatiDT-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Puedes descomentar y agregar tus enlaces cuando los tengas
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-TuPerfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-tuemail@ejemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  -->
-</p>
+<a href="https://github.com/TatiDT">
+  <img src="https://img.shields.io/badge/GitHub-TatiDT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+📧 **tatiabarca12@gmail.com**
 
 ---
 
