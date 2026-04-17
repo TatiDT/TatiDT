@@ -9,9 +9,11 @@ El pensamiento lógico aplicado a algoritmos, estructuras de datos y resolución
 El desarrollo de software bien estructurado, legible y sostenible en el tiempo.
 📌 **Proyectos que he realizado:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Gestión de sede deportiva** - Sistema para administrar reservas, horarios y usuarios de una sede deportiva.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Gestión de sede deportiva** 
+- Sistema para administrar reservas, horarios y usuarios de una sede deportiva.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Sistema de facturación** - Aplicación para gestión de ventas, clientes y generación de facturas.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Sistema de facturación**
+- Aplicación para gestión de ventas, clientes y generación de facturas.
 
  Actualmente estoy mejorando mis habilidades en 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
