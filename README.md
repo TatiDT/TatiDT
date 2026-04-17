@@ -7,6 +7,7 @@ La documentación técnica como herramienta para compartir conocimiento y facili
 El pensamiento lógico aplicado a algoritmos, estructuras de datos y resolución de problemas complejos.
 
 El desarrollo de software bien estructurado, legible y sostenible en el tiempo.
+
 📌 **Proyectos que he realizado:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Gestión de sede deportiva** 
