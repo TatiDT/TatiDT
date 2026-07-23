@@ -72,8 +72,8 @@ Siempre buscando buenas prácticas que combinen lógica rigurosa con documentaci
 ### Estadísticas de GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TatiDT&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatiDT&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-delta-pied.vercel.app/api?username=TatiDT&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-delta-pied.vercel.app/api/top-langs/?username=TatiDT&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Siempre buscando buenas prácticas que combinen lógica rigurosa con documentaci
 
 [![GitHub](https://img.shields.io/badge/GitHub-TatiDT-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TatiDT)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-tatiabarca12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tatianaisabelabarca10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tatiabarca12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tatiabarca12@gmail.com)
 
 <p align="center">
   <sub><img src="https://visitor-badge.laobi.icu/badge?page_id=TatiDT.TatiDT" alt="visitors" /></sub>
