@@ -109,4 +109,4 @@
 
 <br>
 
-<p align="center"><sub>Diseño basado en <a href="https://github.com/macu-dev/macu-dev">macu-dev/macu-dev</a></sub></p>
+
