@@ -1,26 +1,12 @@
 {
-  "title": "DevOps Language Stack",
-  "_comment": "Values 0-100. Edit these and the Charts workflow redraws it.",
+  "title": "Language Stack",
+  "_comment": "Valores 0-100. Cambia los valores y vuelve a correr scripts/radar.py.",
   "axes": [
-    {
-      "label": "Python",
-      "value": 88
-    },
-    {
-      "label": "Bash/Shell",
-      "value": 85
-    },
-    {
-      "label": "Javascript",
-      "value": 90
-    },
-    {
-      "label": "HCL",
-      "value": 80
-    },
-    {
-      "label": "YAML",
-      "value": 90
-    }
+    {"label": "JavaScript", "value": 85},
+    {"label": "Python", "value": 75},
+    {"label": "Java", "value": 70},
+    {"label": "Kotlin", "value": 65},
+    {"label": "C#", "value": 60},
+    {"label": "SQL", "value": 75}
   ]
 }

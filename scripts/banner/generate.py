@@ -34,26 +34,26 @@ HOLD_PARTICLE_COUNT = 2_400
 SEED = 314159
 LOGO_SUFFIXES = {".png", ".webp"}
 LOGO_ALIASES = {"kube": "kubernetes"}
-PREFERRED_LOGO_ORDER = ("linux", "kubernetes")
+PREFERRED_LOGO_ORDER = ("linux", "docker")
 
 YAML_ROWS = [
     (0, "profile", ""),
-    (1, "subject", "Maria Claudia"),
-    (1, "role", "DevOps Engineer"),
-    (1, "origin", "Rosario, Argentina"),
-    (1, "focus", "CI/CD · Cloud Native · IaC"),
-    (1, "status", "Automatizacion · Escalado · Despliegue"),
-    (1, "toolchain", "Terraform · Helm · GitHub Actions"),
+    (1, "subject", "Tatiana Abarca"),
+    (1, "role", "Ingeniera en Informática"),
+    (1, "origin", "Rancagua, Chile"),
+    (1, "focus", "Desarrollo web · Apps móviles · Bases de datos"),
+    (1, "status", "Aprendiendo · Construyendo · Creciendo"),
+    (1, "toolchain", "Git Bash · Docker · XAMPP"),
     (0, "stack", ""),
-    (1, "cloud", "AWS · Azure"),
-    (1, "containers", "Kubernetes · Docker · Helm"),
-    (1, "iac", "Terraform · Ansible"),
-    (1, "observability", "Prometheus · Datadog · Sentry"),
-    (1, "automation", "Python · Bash · JavaScript"),
+    (1, "frontend", "React · Tailwind · Lucide React"),
+    (1, "backend", "Node.js · Python · Java · C#"),
+    (1, "mobile", "Kotlin"),
+    (1, "databases", "MySQL · PostgreSQL · Firebase"),
+    (1, "web", "HTML · JavaScript"),
     (0, "contact", ""),
-    (1, "linkedin", "/in/mcperezes"),
-    (1, "github", "macu-dev"),
-    (1, "timezone", "UTC-3 · Rosario"),
+    (1, "instagram", "@ww.tatys"),
+    (1, "github", "TatiDT"),
+    (1, "timezone", "UTC-3 · Rancagua"),
 ]
 
 THEMES = {
@@ -338,9 +338,9 @@ def render_svg(
         '<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" '
         'aria-labelledby="title desc">',
-        "<title id=\"title\">Maria Claudia's live system profile</title>",
+        "<title id=\"title\">Tatiana Abarca's live system profile</title>",
         '<desc id="desc">Animated terminal profile with a dithered portrait and '
-        "DevOps tool silhouettes.</desc>",
+        "tool silhouettes.</desc>",
         "<defs>",
         '<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">'
         f'<feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="{t["shadow"]}" '
@@ -473,7 +473,7 @@ def render_svg(
             f'stroke="{t["chrome"]}"/>',
             f'<text x="1062" y="111" text-anchor="middle" fill="{t["chrome"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
-            'font-weight="700">@macu-dev</text>',
+            'font-weight="700">@TatiDT</text>',
         ]
     )
 
